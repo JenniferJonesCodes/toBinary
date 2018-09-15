@@ -1,4 +1,6 @@
 nbproject
 dist
 build
-.vscode
+.vscode/
+a.out
+.dep.inc
